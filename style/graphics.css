@@ -1,0 +1,185 @@
+/*Koristelua*/
+
+/*Viivat oikealla*/
+
+.verUpRig{
+    margin-top: -8%;
+    margin-left: 80%;
+    padding-top: 10%;
+    left: 20%;
+    border-left: 2px solid grey;
+    position: absolute;
+}
+
+.verUpRig2{
+    margin-top: -20%;
+    margin-left: 80%;
+    padding-bottom: 6%;
+    left: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpRig3{
+    margin-top: 7%;
+    margin-left: 80%;
+    padding-bottom: 4%;
+    left: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpRig4{
+    margin-top: 20%;
+    margin-left: 80%;
+    padding-bottom: 15%;
+    left: 20%;
+    border-left: 2px solid gray;
+    position: absolute;
+}
+/*
+.verUpRig5{
+    margin-top: 43%;
+    margin-left: 80%;
+    padding-bottom: 10%;
+    left: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpRig6{
+    margin-top: 55%;
+    margin-left: 80%;
+    padding-bottom: 3%;
+    left: 20%;
+    border-left: 2px solid gray;
+    position: absolute;
+}
+
+.verUpRig7{
+    margin-top: 59%;
+    margin-left: 80%;
+    padding-bottom: 3%;
+    left: 20%;
+    border-left: 2px solid gray;
+    position: absolute;
+}
+
+.verUpRig8{
+    margin-top: 67%;
+    margin-left: 80%;
+    padding-bottom: 8%;
+    left: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpRig9{
+    margin-top: 78%;
+    margin-left: 80%;
+    padding-bottom: 10%;
+    left: 20%;
+    border-left: 2px solid grey;
+    position: absolute;
+}
+
+.verUpRig10{
+    margin-top: 90%;
+    margin-left: 80%;
+    padding-bottom: 15%;
+    left: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+
+/*Viivat vasemmalla*/
+
+.verUpLef{
+    margin-right: 80%;
+    padding-top: 10%;
+    right: 20%;
+    border-left: 2px solid gray;
+    position: absolute;
+}
+
+.verUpLef2{
+    margin-top: 11%;
+    margin-right: 80%;
+    padding-bottom: 3%;
+    right: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpLef3{
+    margin-top: 18%;
+    margin-right: 80%;
+    padding-bottom: 13%;
+    right: 20%;
+    border-left: 2px solid grey;
+    position: absolute;
+}
+
+.verUpLef4{
+    margin-top: 32%;
+    margin-right: 80%;
+    padding-bottom: 2%;
+    right: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpLef5{
+    margin-top: 35%;
+    margin-right: 80%;
+    padding-bottom: 2%;
+    right: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+/*
+.verUpLef6{
+    margin-top: 38%;
+    margin-right: 80%;
+    padding-bottom: 20%;
+    right: 20%;
+    border-left: 2px solid gray;
+    position: absolute;
+}
+
+.verUpLef7{
+    margin-top: 60%;
+    margin-right: 80%;
+    padding-bottom: 5%;
+    right: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpLef8{
+    margin-top: 70%;
+    margin-right: 80%;
+    padding-bottom: 15%;
+    right: 20%;
+    border-left: 2px solid grey;
+    position: absolute;
+}
+
+.verUpLef9{
+    margin-top: 88%;
+    margin-right: 80%;
+    padding-bottom: 10%;
+    right: 20%;
+    border-left: 2px solid rgb(10, 182, 182);
+    position: absolute;
+}
+
+.verUpLef10{
+    margin-top: 100%;
+    margin-right: 80%;
+    padding-bottom: 15%;
+    right: 20%;
+    border-left: 2px solid grey;
+    position: absolute;
+}
